@@ -10,7 +10,7 @@ DARK BLUE: #1D3557
 #heading {
     background-image: url("images/austin-skyline.jpg");
     background-size: cover;
-    height: 275px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: center;
